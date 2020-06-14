@@ -1,14 +1,14 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "pwa-chrome",
-            "request": "launch",
-            "name": "Open chat.html",
-            "file": "c:\\Users\\h1smk\\OneDrive\\문서\\kako talk ver 2.0\\kakao-clone-2.0\\chat.html"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "pwa-chrome",
+      "request": "launch",
+      "name": "Open chat.html",
+      "file": "c:\\Users\\h1smk\\OneDrive\\문서\\kako talk ver 2.0\\kakao-clone-2.0\\chat.html"
+    }
+  ]
 }
